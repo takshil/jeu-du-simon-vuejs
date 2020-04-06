@@ -1,0 +1,8 @@
+{
+  "name": "dyma-vue-c5-p-1",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "vue": "^2.5.17"
+  }
+}
