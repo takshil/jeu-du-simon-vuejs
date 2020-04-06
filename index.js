@@ -37,7 +37,6 @@ const vm = new Vue({
       }, 400);
     },
     selectSquare(instruction){
-      console.log(instruction);
       if (instruction === this.tmp[0]){
         this[instruction] = true;
         setTimeout(function(){
